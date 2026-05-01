@@ -1,29 +1,19 @@
-# Job Portal App with MERN Stack
 
-A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 
-## Features
+💼 Job Portal Website
 
-- **User Authentication:** Secure authentication using JWT (JSON Web Tokens) for both job seekers and employers.
-- **Job Listings:** Browse through a wide range of job listings fetched from MongoDB.
-- **Application Management:** Job seekers can manage their job applications, and employers can view and manage received applications.
-- **Responsive Design:** Ensures a seamless experience across all devices.
+A full-stack Job Portal web application that connects job seekers with recruiters. Users can browse jobs, apply for positions, and manage applications, while recruiters can post and manage job listings.
 
-## Technologies Used
-
-- **Frontend:** React.js, React Router, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JWT (JSON Web Tokens), Bcrypt (for password hash)
-- **Image Upload:** Cloudinary for storing and managing uploaded images
-- **Deployment:** Vercel (frontend), Render(backend), MongoDB Atlas (database)
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- Node.js installed on your machine with latest version or v22.2.0 above
-- MongoDB Atlas account (or local MongoDB server)
-- Cloudinary account for image storage
-
+🚀 Features
+👨‍💻 For Job Seekers
+Create and manage profile
+Browse available job listings
+Search jobs by title, location, or skills
+Apply for jobs
+Track application status
+🏢 For Recruiters
+Register and login securely
+Post new job openings
+Manage job listings (edit/delete)
+View applicants for each job
+Shortlist candidates
